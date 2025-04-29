@@ -44,7 +44,7 @@ function App() {
         <Routes>
           <Route path='/' element={<WelcomePage />} />
           <Route path="/" element={<WelcomePage />} />
-          <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
+          
           {/* farmer */}
           <Route
             path="/FARMER/homepage"
