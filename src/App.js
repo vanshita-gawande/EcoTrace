@@ -22,7 +22,7 @@ import ConsumerLoginpage from './components/CONSUMER/login/login';
 import ConsumerRegister from './components/CONSUMER/register/register';
 import ProductJourneyPage from "./components/CONSUMER/homepage/ProductJourneyPage";
 import WelcomePage from './components/WelcomePage/WelcomePage';
-import TermsAndConditions from './components/WelcomePage/TermsAndConditions';
+
 
 
 
